@@ -1,7 +1,7 @@
 # Cajun
 Husky ADAPT Cajun
 
-# ![Logo](HuskyADAPTLogo)
+# ![Logo](Cajun Pic)
 # Group PROJECT
 
 Design and prototype solutions to effectively manipulate common objets with impaired strength and dexterity.
