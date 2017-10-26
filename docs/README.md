@@ -1,7 +1,7 @@
 # Cajun
 Husky ADAPT Cajun
 
-#<img src="https://drive.google.com/open?id=0Bx3n03-Pr6W8TUlUMW1GYlBjQ2NNcHhmUmVwX0t2X296UkI0" width="170">
+#<img src="HuskyADAPTLogo" width="170">
 
 # Group PROJECT
 
