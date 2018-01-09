@@ -1,5 +1,5 @@
-# Cajun
-Husky ADAPT Cajun
+
+# Husky ADAPT Cajun  
 <img src="Cajun Pic.png" alt="Cajun" style="width: 100px;" align="middle"/>
 
 # Group PROJECT
