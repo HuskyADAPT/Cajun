@@ -3,7 +3,7 @@ Husky ADAPT Cajun
 
 # ![Logo](Cajun Pic.png )
 
-<img src="Cajun Pic.png" alt="Cajun" style="width: 200px;"/>
+<img src="Cajun Pic.png" alt="Cajun" style="width: 100px;"/>
 # Group PROJECT
 
 Design and prototype solutions to effectively manipulate common objets with impaired strength and dexterity.
