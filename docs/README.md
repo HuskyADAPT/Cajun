@@ -7,7 +7,7 @@
 
 Design and prototype solutions to effectively manipulate common objets with impaired strength and dexterity.
 
-# [Project Updates](test)
+# [Project Updates](updates)
 
 ## Screenshots
 
