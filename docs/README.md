@@ -15,4 +15,4 @@ Mataio Ford,
 Lien White
 
 
-[test](test.md)
+[test](test)
