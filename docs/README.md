@@ -1,6 +1,6 @@
 
 # Husky ADAPT Cajun  
-<img src="Cajun Pic.png" alt="Cajun" align="middle" style="text-align: center" style="width: 200px;"/>
+<center img src="Cajun Pic.png" alt="Cajun" style="width: 200px; text-align: center" center/>
 
 
 # Group PROJECT
