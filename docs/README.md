@@ -6,6 +6,8 @@ Husky ADAPT Cajun
 
 Design and prototype solutions to effectively manipulate common objets with impaired strength and dexterity.
 
+# [Project Updates](test)
+
 ## Screenshots
 
 ## Authors
@@ -15,4 +17,4 @@ Mataio Ford,
 Lien White
 
 
-[test](test)
+
