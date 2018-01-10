@@ -1,1 +1,0 @@
-About Courtney and Cajun
